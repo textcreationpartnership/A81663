@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the most honorable states sitting at White-Hall The words of Amos, &amp;c. ... By the same token, saith the Lord of Sabbath; when bishops lands sold, rhetoricks flowers out of request, Great Britains union dissolv'd, or cut assunder, puts down their kings, he beheaded, four and twentieth from the conquest, aged seven times seven, in the seventeenth century.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81663</idno>
+            <idno type="STC">Wing D1989A</idno>
+            <idno type="STC">ESTC R231418</idno>
+            <idno type="EEBO-CITATION">99897295</idno>
+            <idno type="PROQUEST">99897295</idno>
+            <idno type="VID">137022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the most honorable states sitting at White-Hall The words of Amos, &amp;c. ... By the same token, saith the Lord of Sabbath; when bishops lands sold, rhetoricks flowers out of request, Great Britains union dissolv'd, or cut assunder, puts down their kings, he beheaded, four and twentieth from the conquest, aged seven times seven, in the seventeenth century.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>Pp. 8+   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 has catchword "in".</note>
+                  <note>Page 2 has caption: For the right honorable, the councel of state. From the Lady Eleanor, Octo. 1649.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2481 lacks all after page 8.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137022:1"/>
+            <p>For the moſt Honorable STATES Sitting at <hi>WHITE-HALL.</hi>
+            </p>
+            <p>
+               <hi>The words of Amos, &amp;c. And the Lord ſhall roar from Zion, and utter his voyce from Jeruſalem; and the dwelling places of the Shepherds ſhall pe<g ref="char:EOLhyphen"/>riſh, and Carmel ſhall wither: Thus ſaith the Lord, for three tarnſgreſſions and for four, &amp;c. And will cut off the inhabitants of B. and the Scepter ſhall periſh out of Beth. Thus ſaith the Lord, for three tranſgreſſions and for four, &amp;c.</hi> Together with Diviſions character, <hi>viz. By the ſame token, ſaith the Lord of Sabbath;</hi> When Biſhops Lands ſold, Rhetoricks flowers out of requeſt, <hi>Great Britains</hi> Union diſſolv'd, or cut aſſunder, puts down their Kings, he Beheaded, Four and twentieth from the Conqueſt, aged Seven times ſeven, in the Seventeenth Century. <hi>Thus ſaith the Lord, In that day I will raiſe up the Tabernacle of David that is faln down, &amp;c. and will build it again, as in days of old.</hi> Amos cap. 8.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137022:2"/>
+            <head>For the Right Honorable, The Councel of State.</head>
+            <head type="sub">From the Lady <hi>Eleanor, Octo.</hi> 1649.</head>
+            <p>AS known to all, the true way or touch-ſtone, other none to try them by, but that <hi>Salt the life of all things, All things whereby were in<g ref="char:EOLhyphen"/>ſtituted,</hi> without which (<hi>his word the Way and the Truth;</hi> where Legions of diviſion the like unknown, a like poſsible to expect <hi>peace one with ano<g ref="char:EOLhyphen"/>ther,</hi> as to thrid Needles with a Ca<g ref="char:EOLhyphen"/>ble, or in a day build <hi>Pauls.</hi>
+            </p>
+            <p>And ſo behold, all like as when <hi>ſtung by fiery Serpents, were healed by another in that likenes;</hi> alſo of thoſe Legions entred into <hi>that wilde man,</hi> as enſues, a taſte or tryal of them ten<g ref="char:EOLhyphen"/>dred
+<pb n="3" facs="tcp:137022:2"/>to theſe reſtleſs days, wherein <hi>every man in his proper language, hears the wonderful word of God,</hi> as in a chry<g ref="char:EOLhyphen"/>ſtal mirror preſenting the viſage of the preſent, extracted from that di<g ref="char:EOLhyphen"/>ſtracted <hi>MANS</hi> recovery, ſent hi<g ref="char:EOLhyphen"/>ther to Preach (askt <hi>What his name was?</hi>) declaring <hi>What God had done for him</hi> (no infant or babe) direct<g ref="char:EOLhyphen"/>ed to the Gentiles, a light for the laſt days, as though askt <hi>Great Britain,</hi> and <hi>Germany,</hi> their Names ſhould anſwer <hi>Gergeſens,</hi> they both a com<g ref="char:EOLhyphen"/>pound of it; from <hi>Gadarens</hi> as alſo derived <hi>Gallia</hi> or <hi>France</hi> (lying over againſt <hi>England</hi>) as that Region o<g ref="char:EOLhyphen"/>ver againſt <hi>Galilee;</hi> ſo <hi>Whether thence comes any good thing,</hi> like that ſaying of old: Alſo former Marriages (what ſucceſſes have had) who wots not,
+<pb n="4" facs="tcp:137022:3"/>ſhall come to the matter (<hi>Mat.</hi> 8. <hi>c.</hi>) of our Saviors pilgrimages or weary progreſſes.</p>
+            <p>
+               <hi>And when he was come to the other ſide of the Countrey of the Gergeſens, there met him two poſſeſt with Devils, which came out of the Graves, very fierce, ſo that no man might paſs by that way. And the devils beſought him,</hi> &amp;c. <hi>and he ſaid, Go;</hi> whereof in a para<g ref="char:EOLhyphen"/>phraſing way thus proceeding, veri<g ref="char:EOLhyphen"/>ly their paſs for <hi>Graveſend</hi> thoſe twain <hi>Rup.</hi> and <hi>Maurice,</hi> returned to <hi>Grave Maurice,</hi> Couſen Germain with the <hi>Boors,</hi> iſſue of the late <hi>Palſgrave</hi> of the <hi>Rhyne,</hi> that German Prince turned out of his Countrey, making in the <hi>Low Countries</hi> his abode, whoſe Offspring thoſe furies or fiends bro<g ref="char:EOLhyphen"/>ken looſe here, ſent home again: To
+<pb n="5" facs="tcp:137022:3"/>this day which Family are conſtant<g ref="char:EOLhyphen"/>ly viſited with a Spirit before the death of them, a thing known to all; and thus as though a Babe new born ſhould ſpeak the hardeſt Names.</p>
+            <p>
+               <hi>Mark</hi> 5. on this wiſe going on with it, of the aforeſaid <hi>unclean ſpirits</hi> bapti<g ref="char:EOLhyphen"/>zed in the lake, &amp;c. certainly emblem of the <hi>Gentiles</hi> being return'd to wal<g ref="char:EOLhyphen"/>low <hi>in the mire,</hi> as waters of trouble<g ref="char:EOLhyphen"/>ſom times giving warning; where thus, <hi>And when he was come out of the ſhip, there met him incontinently out of the Graves a</hi> MAN <hi>that had an un<g ref="char:EOLhyphen"/>clean ſpirit, who had his abiding amongſt the Graves, bound with fetters and chains, &amp;c. neither could by any man be tamed,</hi> his Ghoſt (as it were) that Bear <hi>Canterbury,</hi> brought ſo often to the ſtake or Bar on his knees; where
+<pb n="6" facs="tcp:137022:4"/>beſide his Habitation, where thoſe Monuments in Cathedrals, whoſe Houſe at <hi>Lambeth</hi> with its ſcituation not onely pointed to, but of its de<g ref="char:EOLhyphen"/>nomination borrow'd from the houſe of <hi>Bethlam,</hi> otherwiſe called <hi>Bed<g ref="char:EOLhyphen"/>lam:</hi> As his Name withal whence derived from the Grave-maker or Sextons Office, their digging or o<g ref="char:EOLhyphen"/>pening vaults, not unlike to be one of his Godfathers; ſo much of his raving fit, that bad our Savior <hi>avoid:</hi> fore<g ref="char:EOLhyphen"/>ſhewing had thoſe times been in his, had given him that oath of forſwear<g ref="char:EOLhyphen"/>ing himſelf, or his own accuſer to be, as forced no few in that undue kinde, his own Obligation ſo well obſerv<g ref="char:EOLhyphen"/>ing, queſtioned not his ſpirit of con<g ref="char:EOLhyphen"/>tinency, any more then whether the name <hi>Puritans</hi> a perſecutor of, or
+<pb n="7" facs="tcp:137022:4"/>given <hi>Judas</hi> paſs, gone to his own place, <hi>Canterbury</hi> the laſt of his name on a Friday executed, the day on which our Lord was buried for his long ſervice, that in a field <hi>Gules</hi> gives the Halter or rope, from hence<g ref="char:EOLhyphen"/>forth a chain left to hang their Keys in. And ſo much for him and them both anſwering, <hi>For we are many fry<g ref="char:EOLhyphen"/>ers,</hi> whoſe twelve Godfathers withal beſought, (as it were) <hi>Him not to tor<g ref="char:EOLhyphen"/>ment he adjures them;</hi> which concerns more then any Lord Majors Oath, or his Show on the water.</p>
+            <p>So each in his order, where fol<g ref="char:EOLhyphen"/>lows <hi>Great Britains</hi> laſt King, or <hi>Englands</hi> late Tyrant, into whom ma<g ref="char:EOLhyphen"/>ny Devils were entred from ſeveral parts; but one above the reſt (no ſhort time) vext with moſt, whereof
+<pb n="8" facs="tcp:137022:5"/>
+               <hi>Luke</hi> 8. thus, <hi>And when he WENT to land, there met him a certain</hi> MAN <hi>out of the City, which had a Devil a long time, and he ware no clothes, nei<g ref="char:EOLhyphen"/>ther abode in houſe, but in the Graves, and he commanded the foul ſpirit to come out of the man, for oft-times it caught him, &amp;c. therefore he was bound in fet<g ref="char:EOLhyphen"/>ters,</hi> as the cauſe of his binding ſhews; ſo from thoſe words, that <hi>it came out of the man,</hi> as much to ſay, a woman, his <hi>Vaſthi</hi> put away or departed, be<g ref="char:EOLhyphen"/>reft of the Breeches, &amp;c. in recom<g ref="char:EOLhyphen"/>pence Crown'd by her Servant <hi>Ger<g ref="char:EOLhyphen"/>man.</hi> And ſo much for this miſled Man, went away from his Houſe of Parliament and <hi>Hampton-Court,</hi> turn<g ref="char:EOLhyphen"/>ed out of City-houſes and Country both, took up his reſtleſs Lodging a<g ref="char:EOLhyphen"/>mong the ſlain in the field, afterward in <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
